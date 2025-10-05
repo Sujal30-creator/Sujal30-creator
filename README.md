@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sujal30-creator
+- 👋 Hi, I’m Sujal Vaishnav
 - 👀 I’m interested in Python, Pandas, Artificial Intelligence, Machine learning, CNN & NN, Data Science and Deep Learning.
 - 🌱 I’m currently learning Machine Learning, Django, API, Deep Learning.
 - 💞️ I’m looking to collaborate on Machine Learning projects
